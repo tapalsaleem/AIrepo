@@ -1,2 +1,2 @@
-pip install openai
-pip install gradio
+openai
+gradio
